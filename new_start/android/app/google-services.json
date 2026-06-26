@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355555745221",
+    "project_id": "newstart-c3395",
+    "storage_bucket": "newstart-c3395.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355555745221:android:98f1c2978effa8073fffac",
+        "android_client_info": {
+          "package_name": "com.example.new_start"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfboe5kHMqXwHKdWoomZ3p2CwfdL6LekQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
